@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Node
+kindergarten-frontend/node_modules/
+kindergarten-frontend/dist/
+
+# Others
+.env

@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.AssemblyInfo.cs
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\KindergartenApp\KindergartenApp.Api\obj\Debug\net8.0\KindergartenApp.Api.sourcelink.json
