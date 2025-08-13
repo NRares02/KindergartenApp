@@ -13,10 +13,12 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="bg-blue-600 text-white px-4 py-3 shadow-md">
+    <nav className="w-full bg-gradient-to-r from-red-600 to-red-400 text-white px-4 py-3 shadow-lg fixed top-0 left-0 z-50">
       <div className="flex justify-between items-center max-w-7xl mx-auto">
-        <div className="text-xl font-bold">
-          <Link to="/">Kindergarten App</Link>
+        <div className="text-2xl font-extrabold tracking-wide drop-shadow-lg font-sans">
+          <Link to="/" className="hover:text-yellow-200 transition-colors duration-200">
+            Kindergarten <span className="text-yellow-200">App</span>
+          </Link>
         </div>
 
         <button
@@ -32,8 +34,8 @@ const Navbar = () => {
             <li key={path}>
               <Link
                 to={path}
-                className={`hover:text-yellow-300 ${
-                  location.pathname === path ? "underline text-yellow-300" : ""
+                className={`hover:text-yellow-200 transition-colors duration-200 ${
+                  location.pathname === path ? "underline text-yellow-200 font-bold" : ""
                 }`}
               >
                 {label}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KindergartenApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d8f5a315aaac175658e571a679673f1d7b6ed5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd0fdae0bd31dfd95bd8a8f138a317d5a5dffa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("KindergartenApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KindergartenApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,8 +9,10 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <div className="p-4">
+      {/* Remove p-4 and add pt-20 for navbar offset */}
+      <div className="pt-20 min-h-screen bg-gradient-to-br from-blue-50 to-white">
         <Routes>
+          <Route path="/" element={<Dashboard />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/users" element={<Users />} />
           <Route path="/login" element={<Login />} />
